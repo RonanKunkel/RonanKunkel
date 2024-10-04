@@ -1,9 +1,9 @@
-# 💫 About Me:
+ # 💫 About Me:
 My name is Ronan Kunkel, I am a third-year computer science student at the University of Lethbridge. I enjoy all aspects of CPSC and am always trying to broaden my skills.
 
 
 # 🏆 Codewars Badge:
-[![Codewars Badge](https://www.codewars.com/users/Roark_Firelord/badges/large)
+[![Codewars Badge](https://www.codewars.com/users/Roark_Firelord/badges/large)]
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/roark_firelord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roark_firelord) 
 
