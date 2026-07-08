@@ -1,6 +1,5 @@
  # 💫 About Me:
-My name is Ronan Kunkel, I am a third-year computer science student at the University of Lethbridge. I enjoy all aspects of CPSC and am always trying to broaden my skills.
-
+My name is Ronan Kunkel, I am a recent graduate with a bachelors in computer science (minor in music) from the University of Lethbridge.
 
 # 🏆 Codewars Badge:
 ![Codewars Badge](https://www.codewars.com/users/Roark_Firelord/badges/large)
